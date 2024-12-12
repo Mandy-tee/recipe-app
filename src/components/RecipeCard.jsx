@@ -2,7 +2,7 @@ import { Heart, HeartPulse, Soup } from "lucide-react"
 
 const RecipeCard = () => {
   return (
-    <div className="flex flex-col rounded-md bg-[#ecf7d4] overflow-hidden p3 relative">
+    <div className="flex flex-col rounded-md bg-[#ecf7d4] overflow-hidden p-3 relative">
           <a href="#" className="relative h-32">
             <img src="/1.jpg" alt="recipe img"
               className="rounded-md w-full h-full object-cover cursor-pointer" />
