@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom";
-import Sidebar from "./components/Sidebar.jsx";
-import HomePage from "./pages/HomePage.Jsx";
-import FavoritesPage from "./pages/FavoritesPage.jsx";
+import Sidebar from "./components/Sidebar";
+import HomePage from "./pages/HomePage";
+import FavoritesPage from "./pages/FavoritesPage";
 
 function App() {
   
